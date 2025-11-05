@@ -1,2 +1,2 @@
-# rock-paper-scissors
+# rock-paper-scissors.py
 Python project that allows the player to play rock paper scissors against the computer
